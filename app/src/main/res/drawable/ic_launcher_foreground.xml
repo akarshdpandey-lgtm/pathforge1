@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Target / Progress Arc -->
+        <path
+            android:fillColor="#FFD166"
+            android:pathData="M54,26 C38.54,26 26,38.54 26,54 C26,69.46 38.54,82 54,82 C69.46,82 82,69.46 82,54 C82,38.54 69.46,26 54,26 Z M54,75 C42.42,75 33,65.58 33,54 C33,42.42 42.42,33 54,33 C65.58,33 75,42.42 75,54 C75,65.58 65.58,75 54,75 Z" />
+        <!-- Rocket / Study Ascent Icon in Center -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,36 C50,42 45,50 45,59 C45,64 47,67 49,69 L54,66 L59,69 C61,67 63,64 63,59 C63,50 58,42 54,36 Z" />
+        <!-- Inner Star / Flame / Core -->
+        <path
+            android:fillColor="#06D6A0"
+            android:pathData="M54,52 C52.34,52 51,53.34 51,55 C51,57.5 54,61 54,61 C54,61 57,57.5 57,55 C57,53.34 55.66,52 54,52 Z" />
+        <!-- Accent checkmark or achievement sparkle -->
+        <path
+            android:fillColor="#FFD166"
+            android:pathData="M68,36 L70,41 L75,43 L70,45 L68,50 L66,45 L61,43 L66,41 Z" />
+    </group>
+</vector>
